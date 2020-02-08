@@ -13,7 +13,7 @@ First Part Inference for one way count data Chi-Square test using the multinoial
 
 ### 다항분포는 범주형 자료의 확률모형을 나타내는 예로서 이 모형을 이용하여 카이제곱검정의 통계량을 만들 수 있다
 
-![9.3_graph](/assets/statistical/9.3_graph.png)
+![graph](/assets/img/statistical/9.3_graph.png)
 
 다항(Multinomial) 분포의 예시 - 아이스크림 맛의 선호도
 
