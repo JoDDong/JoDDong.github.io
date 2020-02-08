@@ -1,7 +1,6 @@
 ---
 title: "나의 첫 블로그"
 date: 2020-02-04
-layout: posts
 categories: Journal
 ---
 
