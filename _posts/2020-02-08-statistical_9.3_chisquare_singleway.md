@@ -1,8 +1,8 @@
 ---
 title: "[Statistical Study]MIT Notebook-chapter 9.3"
 date: 2020-02-08
-categories: [Statistical, Math]
-tag: [MIT, chi-square, 카이제곱분포, 다항분포]
+categories: [Statistical]
+tag: [MIT, chi-square, multinomial]
 toc: true
 toc_sticky: true
 ---
