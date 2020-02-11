@@ -3,6 +3,8 @@ title: "[ALgorithm] Merge Sort"
 date: 2020-02-08
 categories: [Algorithm]
 tag: [sorting, mergesort, 머지소트]
+toc: true
+toc_sticky: true
 ---
 
 대표적으로 O(logN)의 시간 복잡도를 가지는 소팅 알고리즘
