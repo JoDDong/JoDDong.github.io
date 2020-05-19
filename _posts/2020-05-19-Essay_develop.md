@@ -1,6 +1,6 @@
 ---
 title: "[Essay] 1. 개발?"
-date: 2020-05.19
+date: 2020-05-19
 categories: [Essay]
 tag: [Essay, Developer, Engineer]
 toc: true
