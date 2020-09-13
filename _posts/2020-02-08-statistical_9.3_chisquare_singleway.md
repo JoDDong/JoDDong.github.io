@@ -5,6 +5,7 @@ categories: [Statistical]
 tag: [MIT, chi-square, multinomial]
 toc: true
 toc_sticky: true
+use_math: true
 ---
 
 # MIT Notebook-chapter 9.3
@@ -45,8 +46,8 @@ $$e_i = np_{i0} \leftarrow expected \;cell\;counts\;when\; H_0\; is\; true$$
 
 $$X^2 = \sum_{i=1}^{c}\frac{(n_i-e_i)^2}{e_i} = \sum_{i}\frac{(observed_i-expected_i)^2}{expected_i}$$
 
-- X^2를 관찰된 개수가 기대count와 얼마나 다른지 차이라고 생각해야 한다.
-- X^2가 크다는 것은 → 관찰된 것이 기대보다 많이 다르다는 것을 의미한다,
+- $X^2$를 관찰된 개수가 기대count와 얼마나 다른지 차이라고 생각해야 한다.
+- $X^2$가 크다는 것은 → 관찰된 것이 기대보다 많이 다르다는 것을 의미한다,
 이말은,  뭔가 잘못되었고 귀무가설이 채택되기 때문에 안된다.
 
 ## 카이제곱 분포(Chi-square distribution)란?
