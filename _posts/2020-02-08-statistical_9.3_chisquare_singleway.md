@@ -14,13 +14,13 @@ First Part Inference for one way count data Chi-Square test using the multinoial
 
 - 단측 count data의 추정을 위해 다항(multinomial) 분포를 이용한 카이제곱 검증
 
-### 다항분포는 범주형 자료의 확률모형을 나타내는 예로서 이 모형을 이용하여 카이제곱검정의 통계량을 만들 수 있다
+>>  다항분포는 범주형 자료의 확률모형을 나타내는 예로서 이 모형을 이용하여 카이제곱검정의 통계량을 만들 수 있다
 
 ![graph](/assets/img/statistical/9.3_graph.png)
 
 다항(Multinomial) 분포의 예시 - 아이스크림 맛의 선호도
 
-### 해당 검증을 위해 아래와 같은 조건이 있다
+>>  해당 검증을 위해 아래와 같은 조건이 있다
 
 - Cell은 1, 2, ..., c로 넘버링이 되어 있다
 - 셀의 확률은 아래와 같다
